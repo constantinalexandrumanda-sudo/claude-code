@@ -16,7 +16,7 @@ Ești un expert în comunicare strategică, fundraising și design de prezentăr
 
 ## Sarcina ta
 
-Construiește un **pitch deck profesional de sponsorizare** (8 slide-uri) pentru **Centrul AGORA pentru Democrație** (www.agoracenter.ro), un policy-hub independent și nepartizan cu sediul în București, înființat în ianuarie 2024.
+Construiește un **pitch deck profesional de sponsorizare** (11 slide-uri) pentru **Centrul AGORA pentru Democrație** (www.agoracenter.ro), un policy-hub independent și nepartizan cu sediul în București, înființat în ianuarie 2024.
 
 ### Reguli generale
 - Limba: **română**
@@ -29,7 +29,7 @@ Construiește un **pitch deck profesional de sponsorizare** (8 slide-uri) pentru
 
 ---
 
-## STRUCTURA PITCH DECK (8 SLIDE-URI)
+## STRUCTURA PITCH DECK (11 SLIDE-URI)
 
 ### SLIDE 1 – SLIDE DE TITLU
 
@@ -227,8 +227,79 @@ Layout: 3 coloane (Gold | Silver | Bronze), fiecare cu beneficii ierarhizate.
 **Footer (boldat, vizibil):**
 > **Fiecare parteneriat este o conversație. Contactează-ne pentru a discuta un pachet personalizat care să reflecte cel mai bine obiectivele tale.**
 
-Contact: contact@agoracenter.ro | www.agoracenter.ro
-[📷 FOTO opțional: fotografie de grup sau moment de networking AGORA]
+---
+
+### SLIDE 9 – DE CE ACUM
+
+**Titlu: De ce acum este momentul potrivit**
+
+Construiește acest slide în jurul urgenței și a ferestrei de oportunitate. Propune conținut convingător bazat pe următoarele direcții:
+
+- **Momentul democratic**: România traversează o perioadă de redefinire a raportului dintre cetățeni și instituții. Alegerile din 2024-2025 au arătat o mobilizare fără precedent a tinerilor – acest moment trebuie capitalizat
+- **Cerere crescută de politici bazate pe evidențe**: Într-o eră a dezinformării și polarizării, nevoia de analize independente, nepartizane și riguroase nu a fost niciodată mai mare
+- **Poziționarea strategică a României**: România devine un actor tot mai relevant în arhitectura de securitate europeană și transatlantică – are nevoie de voci informate în dezbaterea publică
+- **Fereastra de oportunitate**: AGORA este la început de drum, cu tracțiune demonstrată (foști șefi de stat la masă, 2M+ tineri mobilizați). A investi acum înseamnă a fi **partener fondator** al unei platforme care va crește exponențial
+- **Generația care vine**: 45-62% prezență la vot în rândul tinerilor în 2024-2025, față de 25% în 2020. O generație care vrea să fie parte din soluție – și care își caută repere
+
+Tonul: urgent dar optimist. Mesajul-cheie: **„Cine investește acum în politici publice solide, investește în viitorul României."**
+
+---
+
+### SLIDE 10 – VIZIUNEA 2027-2031
+
+**Titlu: Încotro mergem**
+
+Layout: timeline vizual sau roadmap pe 2 orizonturi de timp.
+
+**Orizont 1: 2027-2028**
+- **AGORA Talks** – extindere la **6+ ediții pe an**, cu invitați internaționali și acoperire media națională
+- **Policy Lab** – minim **4 policy briefs anuale** pe domeniile de expertiză AGORA, cu recomandări concrete pentru decidenți
+- **Rețea AGORA** – creștere la **500+ tineri lideri** din mediul public, privat și civic, conectați printr-o platformă permanentă
+- **Prezență internațională** – participare activă și contribuții la forumuri europene de politici publice (GLOBSEC, Warsaw Security Forum, European Policy Centre etc.)
+- **Parteneriate instituționale** – colaborări formale cu universități, institute de cercetare și organizații internaționale
+
+**Orizont 2: Viziunea 2031**
+> **Până în 2031, Centrul AGORA pentru Democrație va fi unul dintre principalele policy hub-uri din Europa Centrală și de Est.**
+
+- Punct de referință pentru analize de politici publice în România și regiune
+- Platformă de dialog recunoscută între generații de lideri, decidenți și experți
+- Producător constant de soluții de politici publice adoptate la nivel guvernamental
+- Voce credibilă în dezbaterea europeană pe democrație, securitate și prosperitate
+
+Sugestie vizuală: timeline grafic cu milestone-uri, de la 2024 (înființare) → 2027-2028 (consolidare) → 2031 (lider regional). Culorile AGORA, design curat.
+
+[📷 FOTO opțional: vizual aspirațional – conferință internațională, panel european, sau echipa AGORA]
+
+---
+
+### SLIDE 11 – ÎNCHEIERE & CONTACT
+
+**Titlu: Hai să construim împreună**
+
+Mesaj central (vizual, centrat, elegant):
+
+> **Politicile publice solide se construiesc cu parteneri dedicați.**
+> **Fii parte din povestea AGORA.**
+
+---
+
+**Date de contact:**
+
+**Alexandru Manda**
+Președinte & Fondator
+Centrul AGORA pentru Democrație
+
+📧 alexandru.manda@agoracenter.ro
+📱 +40 732 094 664
+🌐 www.agoracenter.ro
+
+---
+
+Logo AGORA (centrat, dimensiune mare)
+
+**Mulțumim.**
+
+[📷 FOTO opțional: fotografie de grup echipa AGORA sau vizual din identitatea vizuală]
 
 ---
 
@@ -255,4 +326,5 @@ Locurile marcate cu [📷 FOTO] în deck-ul generat:
 | Slide 6 | Momente din AGORA Talks (paneluri, discuții cu invitații) |
 | Slide 6 | Sesiuni de lucru Policy Lab (workshop, roundtable) |
 | Slide 7 | Colaj din activități AGORA (audiență, networking, tineri) |
-| Slide 8 | Fotografie de grup / moment de networking (opțional) |
+| Slide 10 | Vizual aspirațional – conferință internațională / panel european (opțional) |
+| Slide 11 | Fotografie de grup echipa AGORA (opțional) |
